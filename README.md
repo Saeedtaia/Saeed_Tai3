@@ -16,7 +16,7 @@
 - 👨‍💻 I work on building beautiful and functional mobile and web applications using Flutter and Angular Freamworks and react library.
 - 💬 Ask me about my experience with Flutter, Angular , React, Next.js, TypeScript, JavaScript, Dart, Firebase, and BLoC, or anything related to mobile or web development.
 - ⚡ Fun Fact: I enjoy exploring new tech gadgets and playing video games.
-- 👨‍💻 Check out my portfolio at [Your Portfolio Link] to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [[My Portfolio Link](https://www.linkedin.com/in/saied-tai3/)] to see some of the projects I've worked on.
 
 ### Connect with Me :
 <a href="https://linkedin.com/in/saied-tai3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" /></a>
