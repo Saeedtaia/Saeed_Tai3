@@ -46,7 +46,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=c-sharp)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=c#)&nbsp;
 ![.net](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=dotnet)&nbsp;
 
 
