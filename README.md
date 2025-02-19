@@ -59,7 +59,7 @@ I am a passionate Fullstack Developer with a strong foundation in both front-end
 ## Education
 
 **Bachelor of Science in Information Systems**  
-_BFCAI – [Full Institute Name if desired]_  
+_BFCAI – benha Faculty of Computer and Artificial Intelligence _  
 _Graduated: [2024]_
 
 Relevant Courses: Software Engineering, Database Systems, Web Development, Project Management
@@ -86,11 +86,11 @@ Relevant Courses: Software Engineering, Database Systems, Web Development, Proje
    _Link:_ [View Project](https://saeedtaia.github.io/Weather/)
 
 - **Game Over**  
-  _Description:_ this site used to play or download a game and search in it, technology used html css js with api.  
+  _Description:_ This site used to play or download a game and search in it, technology used html css js with api.  
   _Link:_ [View Project](https://saeedtaia.github.io/Game-Over/)
 
 - **YUMMY**  
-   _Description:_ this site is aboute famous meals in famous countries, you can know its ingredients and how to madw
+   _Description:_ This site is aboute famous meals in famous countries, you can know its ingredients and how to madw
   it.  
    _Link:_ [View Project](https://saeedtaia.github.io/yummy/)
 
