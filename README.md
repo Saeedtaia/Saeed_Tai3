@@ -1,58 +1,103 @@
-<h2 style="text-align:center;">
-  Welcome to Saeed Tai3's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<!-- Banner Image -->
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular%20Developer;Flutter%20Developer;React%20Developer;Building%20beautiful%20UIs;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p> 
+![Fullstack Developer Banner](https://your-image-link-here.com/banner.png)
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+# Hi there, I'm [Your Name] 👋
 
-- 🏢 I'm a Flutter and frontend(React & Angular) Developer based in Benha
-- 👨‍💻 I work on building beautiful and functional mobile and web applications using Flutter and Angular Freamworks and react library.
-- 💬 Ask me about my experience with Flutter, Angular , React, Next.js, TypeScript, JavaScript, Dart, Firebase, and BLoC, or anything related to mobile or web development.
-- ⚡ Fun Fact: I enjoy exploring new tech gadgets and playing video games.
-- 👨‍💻 Check out my portfolio at [My Portfolio Link](https://www.linkedin.com/in/saied-tai3/) to see some of the projects I've worked on.
+**Fullstack Developer | Angular & ASP.NET Expert**  
+_Graduate from BFCAI, Information Systems Department_
 
-### Connect with Me :
-<a href="https://linkedin.com/in/saied-tai3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" /></a>
+---
 
-<a href="https://www.buymeacoffee.com/YourCoffeeLink" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-green.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+## About Me
 
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular)&nbsp;
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-05122A?style=flat&logo=primeng)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![BLoC](https://img.shields.io/badge/-BLoC-05122A?style=flat&logo=bloc)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=c#)&nbsp;
-![.net](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=dotnet)&nbsp;
+I am a passionate Fullstack Developer with a strong foundation in both front-end and back-end technologies. I specialize in building scalable web applications using **Angular** for the client-side and **ASP.NET Core** for the server-side. Graduating from BFCAI in the Information Systems Department gave me a robust background in computing principles, which I apply daily to design, develop, and deploy innovative solutions.
 
+- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname)
+- 🌱 I’m continuously learning advanced cloud & microservices architectures
+- 💬 Ask me about Angular, ASP.NET Core, RESTful APIs, and CI/CD practices
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saeedtaia&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Saeedtia&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Saeedtia&style=for-the-badge">
-</a>
+---
+
+## Skills
+
+**Frontend:**  
+[![Angular](https://img.shields.io/badge/Angular-CC0333?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**Backend:**  
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-67217A?style=for-the-badge&logo=entityframework&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
+
+**Tools & Technologies:**  
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+---
+
+## Experience
+
+### Fullstack Developer at [Company/Project Name]
+
+- **Technologies:** Angular, ASP.NET Core, SQL Server, Docker, Azure
+- **Responsibilities:** Developed scalable web applications, implemented RESTful APIs, and integrated CI/CD pipelines.
+- **Achievements:** Reduced API response time by 30% and improved front-end performance using lazy-loading modules.
+- **Link:** [GitHub Repository](https://github.com/yourusername/projectname)
+
+### [Other Relevant Experience]
+
+- **Technologies:** [List relevant tech]
+- **Responsibilities & Achievements:** Brief description of your role and impact.
+
+---
+
+## Education
+
+**Bachelor of Science in Information Systems**  
+_BFCAI – [Full Institute Name if desired]_  
+_Graduated: [Year]_
+
+Relevant Courses: Software Engineering, Database Systems, Web Development, Project Management
+
+---
+
+## Certifications
+
+- [Certification Name](#) – [Issuing Organization], [Year]
+- [Certification Name](#) – [Issuing Organization], [Year]
+
+---
+
+## Projects
+
+- **[Project One Name]**  
+  _Description:_ Briefly describe the project, technologies used, and your contribution.  
+  _Link:_ [View Project](https://github.com/yourusername/projectone)
+
+- **[Project Two Name]**  
+  _Description:_ Brief overview of the project highlights.  
+  _Link:_ [View Project](https://github.com/yourusername/projecttwo)
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+---
+
+## Contact
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+_This README serves as an interactive CV. Feel free to connect with me or explore my projects to learn more about my work!_
