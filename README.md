@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-![Fullstack Developer Banner](https://your-image-link-here.com/banner.png)
+![Fullstack Developer Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-start-full-stack-development-non-techies-mallik-mallu&psig=AOvVaw3kwDe3oWTbRVpHuZqAdKlH&ust=1740018752214000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD2nZbZzosDFQAAAAAdAAAAABAW)
 
 # Hi there, I'm [Your Name] 👋
 
